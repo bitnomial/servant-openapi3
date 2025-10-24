@@ -9,6 +9,11 @@ OpenAPI 3.0 conforming json for [servant](https://github.com/haskell-servant/ser
 
 ![servant-swagger robot](http://s16.postimg.org/rndz1wbyt/servant.png)
 
+**Differences from upstream**
+
+This repository is a fork of https://github.com/biocad/servant-openapi3. The additions are listed below:
+* [Support for `MultiVerb`](https://github.com/biocad/servant-openapi3/pull/59)
+
 ### Motivation
 
 Swagger is a project used to describe and document RESTful APIs.

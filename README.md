@@ -13,6 +13,7 @@ OpenAPI 3.0 conforming json for [servant](https://github.com/haskell-servant/ser
 
 This repository is a fork of https://github.com/biocad/servant-openapi3. The additions are listed below:
 * [Support for `MultiVerb`](https://github.com/biocad/servant-openapi3/pull/59)
+* [Better support for `WithHeaders`](https://github.com/bitnomial/servant-openapi3/commit/d3de4e660d9f067e87c22068b37c7db3e82ac4d3)
 
 ### Motivation
 

@@ -2,3 +2,7 @@ packages:
     servant-openapi3.cabal,
     example/example.cabal
 tests: true
+
+-- openapi3 and insert-ordered-containers
+-- still don't support aeson 2.3+
+allow-newer: aeson

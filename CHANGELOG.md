@@ -1,5 +1,10 @@
-1.1.8
+2.0.2.0
 -------
+
+* Support for `servant-0.20.3.0` features, including `MultiVerb` and `WithHeaders`
+
+1.1.8
+-----
 
 * Support `servant-0.17`
 

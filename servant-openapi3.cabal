@@ -1,5 +1,5 @@
 name:                servant-openapi3
-version:             2.0.1.6
+version:             2.0.2.0
 synopsis:            Generate a Swagger/OpenAPI/OAS 3.0 specification for your servant API.
 description:
   Swagger is a project used to describe and document RESTful APIs. The core of the 
@@ -18,13 +18,15 @@ description:
   * generating clients and servers in many languages using [Swagger Codegen](http://swagger.io/swagger-codegen/);
   .
   * and [many others](http://swagger.io/open-source-integrations/).
-homepage:            https://github.com/biocad/servant-openapi3
-bug-reports:         https://github.com/biocad/servant-openapi3/issues
+homepage:            https://github.com/bitnomial/servant-openapi3
+bug-reports:         https://github.com/bitnomial/servant-openapi3/issues
 license:             BSD3
 license-file:        LICENSE
 author:              David Johnson, Nickolay Kudasov, Maxim Koltsov
-maintainer:          nickolay.kudasov@gmail.com, kolmax94@gmail.com
+maintainer:          Laurent P. Rene de Cotret
 copyright:           (c) 2015-2020, Servant contributors
+                     (c) 2020-2025 Maxim Koltsov
+                     (c) 2026 servant-openapi3 contributors
 category:            Web, Servant, Swagger
 build-type:          Custom
 cabal-version:       1.18
@@ -55,7 +57,7 @@ extra-doc-files:
 
 source-repository head
   type:     git
-  location: https://github.com/biocad/servant-openapi3.git
+  location: https://github.com/bitnomial/servant-openapi3.git
 
 custom-setup
   setup-depends:

@@ -1,19 +1,8 @@
 # servant-openapi3
 
 [![Hackage](https://img.shields.io/hackage/v/servant-openapi3.svg)](http://hackage.haskell.org/package/servant-openapi3)
-[![Build Status](https://travis-ci.org/biocad/servant-openapi3.svg?branch=master)](https://travis-ci.org/biocad/servant-openapi3)
-[![Stackage LTS](http://stackage.org/package/servant-openapi3/badge/lts)](http://stackage.org/lts/package/servant-openapi3)
-[![Stackage Nightly](http://stackage.org/package/servant-openapi3/badge/nightly)](http://stackage.org/nightly/package/servant-openapi3)
 
 OpenAPI 3.0 conforming json for [servant](https://github.com/haskell-servant/servant) APIs.
-
-![servant-swagger robot](http://s16.postimg.org/rndz1wbyt/servant.png)
-
-**Differences from upstream**
-
-This repository is a fork of https://github.com/biocad/servant-openapi3. The additions are listed below:
-* [Support for `MultiVerb`](https://github.com/biocad/servant-openapi3/pull/59)
-* [Better support for `WithHeaders`](https://github.com/bitnomial/servant-openapi3/commit/d3de4e660d9f067e87c22068b37c7db3e82ac4d3)
 
 ### Motivation
 
@@ -49,4 +38,4 @@ Many Swagger tools, including server and client code generation for many languag
 
 We are happy to receive bug reports, fixes, documentation enhancements, and other improvements.
 
-Please report bugs via the [github issue tracker](https://github.com/biocad/servant-openapi3/issues).
+Please report bugs via the [github issue tracker](https://github.com/bitnomial/servant-openapi3/issues).

@@ -1,6 +1,6 @@
 # servant-openapi3
 
-[![Hackage](https://img.shields.io/hackage/v/servant-openapi3.svg)](http://hackage.haskell.org/package/servant-openapi3)
+⚠️ This package has been contributed back to [Servant](https://github.com/haskell-servant/servant) ⚠️
 
 OpenAPI 3.0 conforming json for [servant](https://github.com/haskell-servant/servant) APIs.
 
